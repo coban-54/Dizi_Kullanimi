@@ -1,0 +1,15 @@
+C:\Users\Hüseyin\Desktop\Pratikler\DIZELER\bin\Debug\net6.0\DIZELER.exe
+C:\Users\Hüseyin\Desktop\Pratikler\DIZELER\bin\Debug\net6.0\DIZELER.deps.json
+C:\Users\Hüseyin\Desktop\Pratikler\DIZELER\bin\Debug\net6.0\DIZELER.runtimeconfig.json
+C:\Users\Hüseyin\Desktop\Pratikler\DIZELER\bin\Debug\net6.0\DIZELER.dll
+C:\Users\Hüseyin\Desktop\Pratikler\DIZELER\bin\Debug\net6.0\DIZELER.pdb
+C:\Users\Hüseyin\Desktop\Pratikler\DIZELER\obj\Debug\net6.0\DIZELER.csproj.AssemblyReference.cache
+C:\Users\Hüseyin\Desktop\Pratikler\DIZELER\obj\Debug\net6.0\DIZELER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hüseyin\Desktop\Pratikler\DIZELER\obj\Debug\net6.0\DIZELER.AssemblyInfoInputs.cache
+C:\Users\Hüseyin\Desktop\Pratikler\DIZELER\obj\Debug\net6.0\DIZELER.AssemblyInfo.cs
+C:\Users\Hüseyin\Desktop\Pratikler\DIZELER\obj\Debug\net6.0\DIZELER.csproj.CoreCompileInputs.cache
+C:\Users\Hüseyin\Desktop\Pratikler\DIZELER\obj\Debug\net6.0\DIZELER.dll
+C:\Users\Hüseyin\Desktop\Pratikler\DIZELER\obj\Debug\net6.0\refint\DIZELER.dll
+C:\Users\Hüseyin\Desktop\Pratikler\DIZELER\obj\Debug\net6.0\DIZELER.pdb
+C:\Users\Hüseyin\Desktop\Pratikler\DIZELER\obj\Debug\net6.0\DIZELER.genruntimeconfig.cache
+C:\Users\Hüseyin\Desktop\Pratikler\DIZELER\obj\Debug\net6.0\ref\DIZELER.dll
